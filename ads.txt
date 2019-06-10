@@ -1,0 +1,21 @@
+﻿#
+
+images/
+
+
+<div class="ad-container row-fluid" data-adposition="14"></div>
+<div class="ad-container row-fluid" data-adposition="1"></div>
+
+                <div id='anten-exclusive'>
+                    <script type='text/javascript'>var element = document.createElement('script'); element.src = 'https://api-ads.farakav.com/api/ad/adserverad?zid=7&eid=anten-exclusive'; document.getElementById('anten-exclusive').appendChild(element);</script>
+                </div>
+
+            <div class="ad-container row-fluid" data-adposition="6"></div>
+            <div class="ad-container row-fluid" data-adposition="8"></div>
+
+            <div id='mediaad-eVyf'></div>
+            <div id='mediaad-gIXI'></div>
+            <div id='mediaad-HTPM'></div>
+            <div id='mediaad-UZet'></div>
+
+https://github.com/hamidreza-ab/varzesh3.git
